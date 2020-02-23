@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="google" duration-ms="21165" started-at="2020-02-23T06:19:02Z" finished-at="2020-02-23T06:19:23Z">
+    <groups>
+    </groups>
+    <test name="Gmail" duration-ms="21165" started-at="2020-02-23T06:19:02Z" finished-at="2020-02-23T06:19:23Z">
+      <class name="google.GoogleTest">
+        <test-method status="PASS" signature="launchGoogle()[pri:0, instance:google.GoogleTest@38364841]" name="launchGoogle" duration-ms="21117" started-at="2020-02-23T06:19:02Z" finished-at="2020-02-23T06:19:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchGoogle -->
+      </class> <!-- google.GoogleTest -->
+    </test> <!-- Gmail -->
+  </suite> <!-- google -->
+</testng-results>
