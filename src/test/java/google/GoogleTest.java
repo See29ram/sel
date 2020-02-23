@@ -18,6 +18,7 @@ public class GoogleTest {
 		dr.manage().window().maximize();
 		dr.get("https://www.google.com/");
 		dr.findElement(By.linkText("Gmail")).click();
+                System.out.println("Gmail click Done..");
 		Thread.sleep(2000);
 		dr.quit();
 		
